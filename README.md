@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning more about Machine Learning in depth
      
      <p align="center">
-  <img width="500" height="300" src="https://github.com/techyashu/ashu/blob/master/machine-learning-_1_.gif">
+  <img width="500" height="300" src="https://github.com/techyashu/ashu/blob/master/gifgit.gif">
 </p>
 
 - 💬 Ask me about Tech related stuff. 
