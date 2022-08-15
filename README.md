@@ -9,7 +9,7 @@
 
 **About Me -**
 
-- 🔭 A Final Year Student at NIT Durgapur
+- 🔭 A Final Year Undergraduate Student at NIT Durgapur
 - 🌱 I’m currently learning more about Machine Learning in depth
      
      <p align="center">
